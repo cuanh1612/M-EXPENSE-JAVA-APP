@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expense Management App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="TypeOptionsExpense">
+        <item>Travel</item>
+        <item>Food</item>
+        <item>Other</item>
+    </string-array>
+</resources>

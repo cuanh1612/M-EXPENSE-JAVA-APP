@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/drawable/border.xml" value="0.1715" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/activity_main.xml" value="0.25854700854700857" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/adapter_item_expense.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/adapter_item_trip.xml" value="0.4519464720194647" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/dialog_add_expense.xml" value="0.5443223443223443" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/dialog_confirm_add_trip.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/dialog_filter_trip.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__add__trip.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__contact.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__detail__trip.xml" value="0.18819655521783182" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__home.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__list__trips.xml" value="0.25" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment__update__trip.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_add_trip.xml" value="0.25" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_contact.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_detail_trip.xml" value="0.2" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_home.xml" value="0.47997416020671835" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_list_trips.xml" value="0.1677958446251129" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/layout/fragment_update_trip.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/menu/filter_trip_menu.xml" value="0.3859375" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/menu/menu.xml" value="0.37037037037037035" />
+        <entry key="..\:/Users/huyng/Desktop/mobile app/java/ExpenseManagementJavaApp/app/src/main/res/menu/setting_trip_menu.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

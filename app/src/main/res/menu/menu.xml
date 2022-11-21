@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/fragment_Add_Trip"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="Add Trip" />
+    <item
+        android:id="@+id/fragment_List_Trips"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="List Trips" />
+    <item
+        android:id="@+id/fragment_Contact"
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:title="Contact" />
+</menu>

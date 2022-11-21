@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Filter Trip"
+    android:id="@+id/FilterTrip"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_baseline_filter_list_24"/>
+<item android:title="Clear Filter trip"
+    android:id="@+id/ClearFilterTrip"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_baseline_cached_24"/>
+</menu>
